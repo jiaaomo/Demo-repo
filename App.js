@@ -8,7 +8,7 @@ import {
 function App() {
     return (
       <Router> 
-        //hello---
+        //hello---asdasd
         <div className="App">
           <Route path="/" component = {HomePage} exact />  
           <Route path="/guide" component = {Guide} exact />     
