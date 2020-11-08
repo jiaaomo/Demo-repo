@@ -7,7 +7,8 @@ import {
 
 function App() {
     return (
-      <Router>
+      <Router> 
+        //hello
         <div className="App">
           <Route path="/" component = {HomePage} exact />  
           <Route path="/guide" component = {Guide} exact />     
